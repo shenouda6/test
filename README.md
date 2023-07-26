@@ -1,2 +1,1 @@
-# test
-test repo
+this project was created by <b> shenouda romany <b>
